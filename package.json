@@ -1,0 +1,12 @@
+{
+  "name": "gold-rate-project",
+  "version": "1.0.0",
+  "main": "src/fetchGoldRate.js",
+  "scripts": {
+    "start": "node src/fetchGoldRate.js"
+  },
+  "dependencies": {
+    "axios": "^1.2.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
